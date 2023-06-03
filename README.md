@@ -12,6 +12,7 @@ To play this game, you must follow these steps:
 ```
 1.Clone the repository to your computer.
 2.Open the folder in Visual Studio Code.
-3.Execute the wordle.py file.
-4.That's it. Enjoy!
+3.Install the colorama package using pip install. (skip this step if the package is already installed)
+4.Execute the wordle.py file.
+5.That's it. Enjoy!
 ```
